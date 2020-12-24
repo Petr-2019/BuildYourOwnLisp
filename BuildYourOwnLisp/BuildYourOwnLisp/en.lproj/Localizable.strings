@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  BuildYourOwnLisp
+
+  Created by peter-guan on 2020/12/24.
+  
+*/
+
+"Hello World" = "Hello World";
